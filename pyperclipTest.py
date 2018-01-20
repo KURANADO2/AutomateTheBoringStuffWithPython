@@ -1,4 +1,4 @@
 import pyperclip
 
-pyperclip.copy('Hello world')
+pyperclip.copy('')
 pyperclip.paste()
